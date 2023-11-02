@@ -11,7 +11,7 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcosppollastri/logger-express-middleware"
+    "url": "git+https://github.com/marcosppollastri/logger-express-middleware.git"
   },
   "keywords": [
     "express",
